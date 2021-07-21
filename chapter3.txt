@@ -1,0 +1,1 @@
+This is just amazing that we can branch the local respository without disturbing our main project even locally.
